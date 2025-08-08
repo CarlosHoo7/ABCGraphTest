@@ -1,7 +1,7 @@
 # ABCGraphTest
 Classify products by their value using the ABC method.
 This code includes functions that perform this classification from a simple list of products, additionally, you can generate a graph that sorts the items according to the results from the method.
-
+[!alt text](graph.png)
 According to Wikipedia, the Activity-based costing (ABC) is a costing method that identifies activities in an organization and assigns the cost of each activity to all products and services according to the actual consumption by each.
 
 In other words, the ABC method allows to classify products based on their price and sales. By using this method, you can prioritize certain products that bring much benefit than others, as well as unfocusing on those that don't.
